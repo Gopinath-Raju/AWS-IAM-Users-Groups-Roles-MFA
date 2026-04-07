@@ -49,27 +49,28 @@ Root Account (MFA ✅)
       └── AmazonS3ReadOnlyAccess
 ```
 
----
-
 ## 📸 Screenshots
 
-### IAM Dashboard
-![IAM Dashboard](./screenshots/iam-dashboard.png)
+### 1. dev-user-gopi Created
+![User Created](.User-Created.jpg)
 
-### Developers Group
-![Developers Group](./screenshots/developers-group.png)
+### 2. Developers Group — User Added
+![Developers Group](.Devloper-group-created-and-add-user.jpg)
 
-### Auditors Group
-![Auditors Group](./screenshots/auditors-group.png)
+### 3. Developers Group — EC2 Access Policy
+![Dev Group Access](.Access-in-Dev-group.jpg)
 
-### dev-user-gopi
-![dev-user-gopi](./screenshots/dev-user.png)
+### 4. Auditor User Created
+![Auditor User](.Auditor-user-created.jpg)
 
-### EC2-S3-ReadOnly-Role
-![IAM Role](./screenshots/iam-role.png)
+### 5. Auditors Group — User Added
+![Auditors Group](.Audit-group-created-and-added-user.jpg)
 
-### MFA Enabled
-![MFA](./screenshots/mfa-enabled.png)
+### 6. IAM Role Created
+![Role Created](.Role-created.jpg)
+
+### 7. MFA Enabled on dev-user-gopi
+![MFA Enabled](.Enabled-MFA-on-Dev-user.jpg)
 
 ---
 
