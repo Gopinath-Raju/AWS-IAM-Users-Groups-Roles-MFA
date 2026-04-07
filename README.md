@@ -55,10 +55,10 @@ Root Account (MFA ✅)
 ![User Created](./User-Created.jpg)
 
 ### 2. Developers Group — User Added
-![Developers Group](./Devloper-group-created-and-add-user.jpg)
+![Developers Group](./Devloper-group-created-and-added-user.jpg)
 
 ### 3. Developers Group — EC2 Access Policy
-![Dev Group Access](./Access-in-Dev-group.jpg)
+![Dev Group Access](./Permissions-in-Dev-group.jpg)
 
 ### 4. Auditor User Created
 ![Auditor User](./Auditor-user-created.jpg)
