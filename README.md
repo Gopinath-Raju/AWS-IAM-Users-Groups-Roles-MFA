@@ -52,25 +52,25 @@ Root Account (MFA ✅)
 ## 📸 Screenshots
 
 ### 1. dev-user-gopi Created
-![User Created](.User-Created.jpg)
+![User Created](./User-Created.jpg)
 
 ### 2. Developers Group — User Added
-![Developers Group](.Devloper-group-created-and-add-user.jpg)
+![Developers Group](./Devloper-group-created-and-add-user.jpg)
 
 ### 3. Developers Group — EC2 Access Policy
-![Dev Group Access](.Access-in-Dev-group.jpg)
+![Dev Group Access](./Access-in-Dev-group.jpg)
 
 ### 4. Auditor User Created
-![Auditor User](.Auditor-user-created.jpg)
+![Auditor User](./Auditor-user-created.jpg)
 
 ### 5. Auditors Group — User Added
-![Auditors Group](.Audit-group-created-and-added-user.jpg)
+![Auditors Group](./Audit-group-created-and-added-user.jpg)
 
 ### 6. IAM Role Created
-![Role Created](.Role-created.jpg)
+![Role Created](./Role-created.jpg)
 
 ### 7. MFA Enabled on dev-user-gopi
-![MFA Enabled](.Enabled-MFA-on-Dev-user.jpg)
+![MFA Enabled](./Enabled-MFA-on-Dev-user.jpg)
 
 ---
 
